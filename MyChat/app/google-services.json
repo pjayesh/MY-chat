@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1022850249233",
+    "firebase_url": "https://fir-chat-455a7.firebaseio.com",
+    "project_id": "fir-chat-455a7",
+    "storage_bucket": "fir-chat-455a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022850249233:android:b003cc9cb2088d7c",
+        "android_client_info": {
+          "package_name": "in.jayeshpitale.mychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022850249233-p37m4493ofi1achgetjt9al7pn71rt8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1e2pG601pe48VFJa9XKPLu2TIaBOGQsQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
